@@ -17,13 +17,11 @@ describe("LandingPage", () => {
 
     // Check if the navigation cards are rendered
     expect(screen.getByText("Transactions")).toBeInTheDocument();
-    expect(screen.getByText("Monthly Rewards")).toBeInTheDocument();
-    expect(screen.getByText("Total Rewards")).toBeInTheDocument();
+    expect(screen.getByText("Monthly And Total Rewards")).toBeInTheDocument();
 
     // Check if the descriptions are correct
     expect(screen.getByText("View all transactions")).toBeInTheDocument();
-    expect(screen.getByText("See monthly rewards")).toBeInTheDocument();
-    expect(screen.getByText("Check total rewards")).toBeInTheDocument();
+    expect(screen.getByText("See monthly rewards and total rewards")).toBeInTheDocument();
   });
 
   test("renders 'No data available' message when hasData is true", () => {
@@ -43,15 +41,9 @@ describe("LandingPage", () => {
     expect(window.location.pathname).toBe("/transactions");
 
     // Simulate a click on the 'Monthly Rewards' card
-    fireEvent.click(screen.getByText("Monthly Rewards"));
+    fireEvent.click(screen.getByText("Monthly And Total Rewards"));
 
     // The path should be /monthly-rewards
-    expect(window.location.pathname).toBe("/monthly-rewards");
-
-    // Simulate a click on the 'Total Rewards' card
-    fireEvent.click(screen.getByText("Total Rewards"));
-
-    // The path should be /total-rewards
-    expect(window.location.pathname).toBe("/total-rewards");
+    expect(window.location.pathname).toBe("/monthly-rewards");   
   });
 });
