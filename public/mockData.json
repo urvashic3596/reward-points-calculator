@@ -1,0 +1,530 @@
+[
+    {
+      "transactionId": 1,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-10-05",
+      "product": "Laptop",
+      "price": 1200.99
+    },
+    {
+      "transactionId": 2,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-10-12",
+      "product": "Headphones",
+      "price": 50
+    },
+    {
+      "transactionId": 3,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-10-20",
+      "product": "Smartwatch",
+      "price": 199.99
+    },
+    {
+      "transactionId": 4,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-11-03",
+      "product": "Tablet",
+      "price": 150.75
+    },
+    {
+      "transactionId": 5,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-11-15",
+      "product": "Smartphone",
+      "price": 101
+    },
+    {
+      "transactionId": 6,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-12-10",
+      "product": "Gaming Console",
+      "price": 120
+    },
+    {
+      "transactionId": 7,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-12-18",
+      "product": "Wireless Mouse",
+      "price": 60.5
+    },
+    {
+      "transactionId": 8,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2025-01-10",
+      "product": "Keyboard",
+      "price": 49.99
+    },
+    {
+      "transactionId": 9,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2025-01-01",
+      "product": "Monitor",
+      "price": 199.99
+    },
+    {
+      "transactionId": 10,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2025-01-05",
+      "product": "Webcam",
+      "price": 89.99
+    },
+    {
+      "transactionId": 11,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-10-03",
+      "product": "Printer",
+      "price": 250
+    },
+    {
+      "transactionId": 12,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-02-05",
+      "product": "External Hard Drive",
+      "price": 150.45
+    },
+    {
+      "transactionId": 13,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-12-20",
+      "product": "Desk Lamp",
+      "price": 45
+    },
+    {
+      "transactionId": 14,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2023-02-15",
+      "product": "Office Chair",
+      "price": 150
+    },
+    {
+      "transactionId": 15,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-01-13",
+      "product": "Smart Speaker",
+      "price": 80
+    },
+    {
+      "transactionId": 16,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-01-20",
+      "product": "Gaming Headset",
+      "price": 100
+    },
+    {
+      "transactionId": 17,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-03-10",
+      "product": "Laptop Stand",
+      "price": 35
+    },
+    {
+      "transactionId": 18,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-02-15",
+      "product": "Docking Station",
+      "price": 120
+    },
+    {
+      "transactionId": 19,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2025-01-10",
+      "product": "USB Hub",
+      "price": 25
+    },
+    {
+      "transactionId": 20,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2022-08-25",
+      "product": "Noise Cancelling Headphones",
+      "price": 300
+    },
+    {
+      "transactionId": 21,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-07-27",
+      "product": "Fitness Tracker",
+      "price": 100
+    },
+    {
+      "transactionId": 22,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-07-30",
+      "product": "Wireless Charger",
+      "price": 50
+    },
+    {
+      "transactionId": 23,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-01-21",
+      "product": "Gaming Headset",
+      "price": 1267.46
+    },
+    {
+      "transactionId": 24,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-01-22",
+      "product": "Wireless Charger",
+      "price": 1102.34
+    },
+    {
+      "transactionId": 25,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-01-15",
+      "product": "Laptop Stand",
+      "price": 920.4
+    },
+    {
+      "transactionId": 26,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-02-24",
+      "product": "Smartphone",
+      "price": 1035.28
+    },
+    {
+      "transactionId": 27,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-02-15",
+      "product": "Tablet",
+      "price": 1335.77
+    },
+    {
+      "transactionId": 28,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-02-20",
+      "product": "Wireless Mouse",
+      "price": 874.89
+    },
+    {
+      "transactionId": 29,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-03-18",
+      "product": "Laptop Stand",
+      "price": 778.69
+    },
+    {
+      "transactionId": 30,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-03-22",
+      "product": "Wireless Mouse",
+      "price": 678.62
+    },
+    {
+      "transactionId": 31,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-03-06",
+      "product": "Docking Station",
+      "price": 588.31
+    },
+    {
+      "transactionId": 32,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-03-11",
+      "product": "Wireless Mouse",
+      "price": 448.34
+    },
+    {
+      "transactionId": 33,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-04-11",
+      "product": "Smartwatch",
+      "price": 944.94
+    },
+    {
+      "transactionId": 34,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-04-11",
+      "product": "USB Hub",
+      "price": 594.55
+    },
+    {
+      "transactionId": 35,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-04-13",
+      "product": "Smartwatch",
+      "price": 382.29
+    },
+    {
+      "transactionId": 36,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-04-11",
+      "product": "Fitness Tracker",
+      "price": 760.49
+    },
+    {
+      "transactionId": 37,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-04-22",
+      "product": "USB Hub",
+      "price": 513.92
+    },
+    {
+      "transactionId": 38,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-05-14",
+      "product": "Monitor",
+      "price": 867.86
+    },
+    {
+      "transactionId": 39,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-05-06",
+      "product": "External Hard Drive",
+      "price": 35.49
+    },
+    {
+      "transactionId": 40,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-05-26",
+      "product": "USB Hub",
+      "price": 851.27
+    },
+    {
+      "transactionId": 41,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-05-03",
+      "product": "Noise Cancelling Headphones",
+      "price": 827.05
+    },
+    {
+      "transactionId": 42,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-05-16",
+      "product": "Headphones",
+      "price": 304.29
+    },
+    {
+      "transactionId": 43,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-06-20",
+      "product": "Keyboard",
+      "price": 903.21
+    },
+    {
+      "transactionId": 44,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-06-05",
+      "product": "Smartphone",
+      "price": 489.11
+    },
+    {
+      "transactionId": 45,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-06-07",
+      "product": "Fitness Tracker",
+      "price": 564.9
+    },
+    {
+      "transactionId": 46,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-06-14",
+      "product": "Desk Lamp",
+      "price": 1301.89
+    },
+    {
+      "transactionId": 47,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-06-18",
+      "product": "Keyboard",
+      "price": 487.94
+    },
+    {
+      "transactionId": 48,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-07-13",
+      "product": "Laptop Stand",
+      "price": 738.08
+    },
+    {
+      "transactionId": 49,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-07-23",
+      "product": "External Hard Drive",
+      "price": 414.08
+    },
+    {
+      "transactionId": 50,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-07-20",
+      "product": "Gaming Headset",
+      "price": 817.07
+    },
+    {
+      "transactionId": 51,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-08-26",
+      "product": "Desk Lamp",
+      "price": 1355.39
+    },
+    {
+      "transactionId": 52,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-08-09",
+      "product": "USB Hub",
+      "price": 84.96
+    },
+    {
+      "transactionId": 53,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-08-19",
+      "product": "Headphones",
+      "price": 267.76
+    },
+    {
+      "transactionId": 54,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-08-27",
+      "product": "Desk Lamp",
+      "price": 945.2
+    },
+    {
+      "transactionId": 55,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-08-27",
+      "product": "Smartwatch",
+      "price": 1474.99
+    },
+    {
+      "transactionId": 56,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-09-06",
+      "product": "Desk Lamp",
+      "price": 311.66
+    },
+    {
+      "transactionId": 57,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-09-26",
+      "product": "Laptop",
+      "price": 527.28
+    },
+    {
+      "transactionId": 58,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-09-15",
+      "product": "Printer",
+      "price": 1284.32
+    },
+    {
+      "transactionId": 59,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-09-23",
+      "product": "Webcam",
+      "price": 1313.79
+    },
+    {
+      "transactionId": 60,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-09-22",
+      "product": "USB Hub",
+      "price": 1383.28
+    },
+    {
+      "transactionId": 61,
+      "customerId": 101,
+      "name": "John Doe",
+      "purchaseDate": "2024-10-05",
+      "product": "Laptop Stand",
+      "price": 958.86
+    },
+    {
+      "transactionId": 62,
+      "customerId": 102,
+      "name": "Jane Smith",
+      "purchaseDate": "2024-11-24",
+      "product": "Keyboard",
+      "price": 696.72
+    },
+    {
+      "transactionId": 63,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-11-06",
+      "product": "Gaming Console",
+      "price": 716.33
+    },
+    {
+      "transactionId": 64,
+      "customerId": 104,
+      "name": "Bob Johnson",
+      "purchaseDate": "2024-11-14",
+      "product": "Docking Station",
+      "price": 973.01
+    },
+    {
+      "transactionId": 65,
+      "customerId": 105,
+      "name": "Emily Davis",
+      "purchaseDate": "2024-12-01",
+      "product": "Gaming Headset",
+      "price": 139.94
+    },
+    {
+      "transactionId": 66,
+      "customerId": 103,
+      "name": "Alice Cooper",
+      "purchaseDate": "2024-12-09",
+      "product": "Wireless Mouse",
+      "price": 576.69
+    }
+  ]
